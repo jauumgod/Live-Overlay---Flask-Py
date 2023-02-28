@@ -11,6 +11,7 @@ body {
     background-size: 100%;
     /*background-repeat: no-repeat;*/
 }
+
 h1{
     font-size: 4em;
     font-weight: 700;
@@ -66,7 +67,7 @@ h1{
     border-radius: 12px;
     border: 3px solid;
     text-align: center;
-    font-size: 2.4em;
+    font-size: 2.2em;
     font-weight: 400;
 }
 .texto{
