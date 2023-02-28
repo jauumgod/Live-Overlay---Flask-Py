@@ -1,0 +1,118 @@
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+      width: 100%;
+    }
+}
+
+body {
+    margin: 0;
+    background-image: url('imagem2.jpg');
+    background-size: 100%;
+    /*background-repeat: no-repeat;*/
+}
+h1{
+    font-size: 4em;
+    font-weight: 700;
+    position: absolute;
+    top: 23%;
+    left: 50%;
+    color: rgb(197, 197, 201);
+    transform:translate(-50%, -50%);
+}
+
+#current-time{
+    position: absolute;
+    top: 8%;
+    left: 88%;
+    color: rgb(197, 197, 201);
+    transform:translate(-50%, -50%);
+}
+#current-time{
+    background-color: rgb(4, 20, 65);
+    width: 180px;
+    height: 50px;
+    border-radius: 12px;
+    border: 3px solid;
+    text-align: center;
+}
+.horarios{
+    font-size: 2em;
+    position: absolute;
+    top: 62%;
+    left: 65%;
+    color: rgb(197, 197, 201);
+    transform:translate(-50%, -50%);
+
+}
+.hr{
+    font-size: 2em;
+    font-weight: 500;
+}
+
+.bibi-list{
+    color: aliceblue;
+}
+
+.btn-primary{
+    position: absolute;
+    top: 70%;
+    left: 15%;
+    color: rgb(197, 197, 201);
+    transform:translate(-50%, -50%);
+    background-color: rgb(4, 20, 65);
+    width: 14%;
+    height: 10%;
+    border-radius: 12px;
+    border: 3px solid;
+    text-align: center;
+    font-size: 2.4em;
+    font-weight: 400;
+}
+.texto{
+    color: rgb(197, 197, 201);
+    text-align: center;
+    font-size: 2em;
+    font-weight: 400;
+    position: absolute;
+    top: 75%;
+    left: 10%;
+}
+
+.btn-dark{
+    position: absolute;
+    top: 70%;
+    left: 30%;
+    color: rgb(197, 197, 201);
+    transform:translate(-50%, -50%);
+    background-color: rgb(4, 20, 65);
+    width: 14%;
+    height: 10%;
+    border-radius: 12px;
+    border: 3px solid;
+    text-align: center;
+    font-size: 3em;
+    font-weight: 400;
+}
+
+.audio{
+    color: rgb(197, 197, 201);
+    text-align: center;
+    font-size: 3em;
+    font-weight: 400;
+    position: absolute;
+    top: 92%;
+    left: 80%;
+}
+
+
+footer {
+    
+    color: rgb(197, 197, 201); 
+    padding: 20px; /* espaçamento interno */
+    text-align: center; /* alinhamento do texto */
+    position: absolute; /* fixa o rodapé na parte inferior da página */
+    width: 100%; /* largura total */
+    bottom: 0; /* posiciona o rodapé na parte inferior */
+    top: 120%;
+  }
