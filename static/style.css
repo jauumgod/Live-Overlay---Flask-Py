@@ -38,7 +38,7 @@ h1{
     text-align: center;
 }
 .horarios{
-    font-size: 2em;
+    font-size: 1.5em;
     position: absolute;
     top: 62%;
     left: 65%;
@@ -47,7 +47,7 @@ h1{
 
 }
 .hr{
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: 500;
 }
 
