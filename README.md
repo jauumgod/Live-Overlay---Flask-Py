@@ -1,6 +1,6 @@
 <h1>Live Overlay Python Flask</h1>
 <h2>SITE</h2>
-Indisponivel
+Indisponível
 
 <h2> Para instalar as bibliotecas usadas</h2>
 
